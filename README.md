@@ -7,10 +7,10 @@
 <div align="center">
 
 <!--- FIXME: Pick an emoji and name your project! --->
-# `🌻 opensource-template`
+# `🌻 Fitness Journal`
 
 <!--- FIXME: Write short catchy description/tagline of project --->
-**Template for creating new open source repositories that follow the Embark open source guidelines**
+**Application to track your daily macro and micro of your diet using a ML model!**
 
 <!--- FIXME: Update crate, repo and CI workflow names here! Remove any that are not relevant --->
 
